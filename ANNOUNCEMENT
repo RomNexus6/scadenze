@@ -1,0 +1,94 @@
+(english at bottom)
+
+10/02/2020 (GG/MM/AAAA)
+Carissimo utente di Scadenze,
+
+oggi è un grande giorno.
+Dopo 30 anni (!) di vita (prima come applicativo MSDOS, quindi Win 3.1, Windows 95 e poi Win32) Scadenze oggi raggiunge un traguardo importante.
+Come saprai sono ormai anni che Scadenze non riceve aggiornamenti significativi (solo qualche bug fix).
+Purtroppo il mio tempo libero è sempre più scarso e, quando posso, preferisco passarlo in famiglia.
+
+Ma questo non è un buon motivo perché un software tanto apprezzato debba pagarne il prezzo...
+Per questo motivo ho deciso di rilasciare i sorgenti sotto licenza open source GPL.
+Trovi il progetto su github, al percorso:
+https://github.com/RomNexus6/scadenze
+
+Cosa significa questo?
+1) Che puoi fin da subito scaricare una versione di Scadenze libero da licenze di attivazione
+2) Che non dovrai più mandarmi codici quando cambierai PC
+3) Che potrai installarlo su tutti i PC che vorrai
+4) Che potrai consigliarlo a tutti i tuoi amici
+5) Che Scadenze continuerà a funzionare anche quando io mi ritirerò a coltivare uva (fosse anche tra 20 anni!)
+
+Ma soprattutto:
+5) Che potrai scaricarti i sorgenti e studiarli (non sono fatti molto bene: sei stato avvertito)
+6) Che potrai modificarli a tuo piacimento e crearti una tua versione personale di Scadenze
+7) Che potrai contribuire anche in minima parte se lo vorrai (per esempio aggiungendo o migliorando le traduzioni)
+
+Perché la licenza GPL?
+- Perché software libero significa "libertà" di uso, studio e modifica
+- Perché la proprietà intellettuale va garantita (obbligo di fare sempre riferimento all'autore originale)
+- Perché garantisce che tutte le modifiche che farai saranno sempre a disposizione di tutti (sei obbligato a tua volta a ripubblicare i sorgenti)
+- Perché vieta qualsiasi rivendita per fini commerciali (lo mantiene libero e gratuito)
+- Perché se userai una qualsiasi parte di Scadenze per altri scopi sarai obbligato a convertire ed aprire tutto il tuo progetto alla licenza GPL (protegge dai furti di codice)
+
+... perché con un pull-request sul mio repository le tue modifiche andranno a beneficio di tutti gli utenti di Scadenze. Cioè
+- Scadenze diventa accessibile a tutti senza alcun limite
+- Tutti possono migliorarlo e tenerlo in vita
+- I miglioramenti andranno a beneficio di tutti
+- Potrebbero nascere lavori derivati ispirati a Scadenze (es.: una versione Android, o qualsiasi altra cosa)
+
+Il tuo contributo è stato fondamentale per la crescita di questo (per me) irrinunciabile compagno quotidiano e mi ha aiutato a pagare le spese del sito internet che lo ospita.
+Grazie infinite di aver sostenuto Scadenze fino ad oggi.
+
+Scadenze ora cammina (anche) da solo.
+Lunga vita a Scadenze!
+
+Romano
+
+---
+2020/02/10 (YYYY/MM/DD)
+Dear Scadenze  user,
+
+today is a great day.
+After 30 years (!) of life (first as an MSDOS application, then Win 3.1, Windows 95 and then Win32) Scadenze today reaches an important milestone.
+As you know for years now, Scadenze has not received significant updates (just a few bug fixes).
+Unfortunately, my free time is always scarce and, when I can, I prefer to spend it with my family.
+
+But this is not a good reason why such a popular software should pay the price ...
+For this reason I decided to release the sources under the open source GPL license.
+Find the project on github, at the path:
+https://github.com/RomNexus6/scadenze
+
+What does this mean?
+1) That you can immediately download a version of Scadenze free of activation licenses
+2) That you will no longer have to send me codes when you change PCs
+3) That you can install it on any PC you want
+4) That you can recommend it to all your friends
+5) That Scadenze will continue to work even when I will retire to grow grapes (even in 20 years!)
+
+But most of all:
+5) That you can download the sources and study them (they are not very well done: you have been warned)
+6) That you can modify them as you wish and create your own personal version of Scadenze
+7) That you can contribute even minimally if you wish (for example by adding or improving translations)
+
+Why the GPL license?
+- Because free software means "freedom" of use, study and modification
+- Because intellectual property must be guaranteed (obligation to always refer to the original author)
+- Because it guarantees that all the changes you make will always be available to everyone (you are also obliged to republish the sources)
+- Because it prohibits any resale for commercial purposes (keeps it free and free of charge)
+- Because if you use any part of Scadenze for other purposes you will be obliged to convert and open your entire project to the GPL license (protects against code theft)
+
+... because with a pull-request on my repository your changes will benefit all users of Scadenze. That is:
+- Scadenze becomes accessible to all without any limit
+- Everyone can improve it and keep it alive
+- The improvements will benefit everyone
+- Derivative works inspired by Scadenze may arise (e.g. an Android version, or anything else)
+
+Your contribution has been fundamental for the growth of this (for me) indispensable daily companion and has helped me to pay the expenses of the website that hosts it.
+Thank you so much for supporting Scadenze to date.
+
+Scadenze now walks (even) alone.
+Long life to Scadenze!
+
+Romano
